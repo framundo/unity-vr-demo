@@ -15,6 +15,7 @@ public class Fireworks : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other) {
+		gameObject.GetComponent<Renderer> ().material.color = Color.green;
 		foreach (Transform child in transform) {
 			child.gameObject.SetActive(true);
 		}
