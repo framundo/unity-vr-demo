@@ -676,6 +676,48 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fcb7461fbcfef4d05bd64f7dcd45c966, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &582234509
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -2.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108423336046104, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 0df502893b43046b7a0758240dbcecbf, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &607692749
 Prefab:
   m_ObjectHideFlags: 0
@@ -1248,7 +1290,7 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c72fdeb706ce4ab46a6e047c6ce1566a, type: 2}
+      objectReference: {fileID: 2100000, guid: 0db1ea0a1f33a9e47866f6ae1895fe8a, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a22e29edb16a04042a46e98f63187b2b, type: 2}
   m_IsPrefabParent: 0
